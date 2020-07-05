@@ -1,6 +1,6 @@
 # recyben (bndes hackathon)
 
-## Video apresentaçao do projeto fina:
+## Video apresentaçao final do projeto:
 https://www.youtube.com/watch?v=_qp27u3d854
 
 ## Docker hub:
@@ -10,4 +10,5 @@ https://hub.docker.com/r/tavaresw/recybem_1.0
 https://github.com/bruno-coviello-souto/bndes.git
 
 
+Comments:
 Adiantamento dos possíveis arquivos.
